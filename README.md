@@ -1,4 +1,4 @@
-Hi!
+**Hi**
 
 <div align="center">
   
@@ -10,5 +10,3 @@ Hi!
 [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/adi.zimmerman.7)
 
 </div>
-
-[![HitCount](http://hits.dwyl.com/adizim/adizim.svg)](http://hits.dwyl.com/adizim/adizim)
